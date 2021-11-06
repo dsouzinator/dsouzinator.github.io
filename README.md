@@ -1,2 +1,2 @@
-# dsouzinator.github.io
-This is a repo to host my CV
+# resume
+A repo that contains my resume
